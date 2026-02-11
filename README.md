@@ -24,8 +24,4 @@ I'm a passionate Full Stack Developer from US.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikaaasaa&theme=radical" alt="Mikasa's GitHub Streak" />
 </p>
 
-### 🐍 Snake Animation
 
-<p align="center">
-  <img src="https://github.com/mikaaasaa/mikaaasaa/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
